@@ -1,4 +1,4 @@
-# Tempest Launcher
+# Tempest Launcher [![Build Status](https://travis-ci.org/ISEN-TempestProject/Tempest-Launcher.svg?branch=master)](https://travis-ci.org/ISEN-TempestProject/Tempest-Launcher)
 by
 ## Thomas ABOT (triskell)
 ## Thibaut CHARLES (CromFr)
